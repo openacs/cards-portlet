@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<message_catalog package_key="cards-portlet" package_version="0.1d" locale="es_ES" charset="ISO-8859-1">
+
+  <msg key="admin_pretty_name">Administración de fichas</msg>
+  <msg key="pretty_name">Fichas</msg>
+  <msg key="cards">Fichas de estudiantes</msg>  
+</message_catalog>

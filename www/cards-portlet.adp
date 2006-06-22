@@ -19,6 +19,8 @@
 <property name="context">@context;noquote@</property>
 <property name="title">#cards.Cards_main_page#</property>
 
-<A HREF="@url_to_cards@">#cards-portlet.cards#</A>
+<!--<A HREF="@url_to_cards"> -->
+
+<A HREF="cards/cards_list">#cards-portlet.cards#</A><BR>
 
 

@@ -2,6 +2,7 @@
 <message_catalog package_key="cards-portlet" package_version="0.1d" locale="ca_ES" charset="ISO-8859-1">
 
   <msg key="admin_pretty_name">Administració de fitxes</msg>
+  <msg key="cards">Fitxes d'estudiants</msg>
+  <msg key="Cards_main_page">Pàgina principal</msg>
   <msg key="pretty_name">Fitxes</msg>
-  <msg key="cards">Fitxes d'estudiants</msg>  
 </message_catalog>

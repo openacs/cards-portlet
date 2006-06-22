@@ -7,14 +7,15 @@
     <initial-install-p>f</initial-install-p>
     <singleton-p>t</singleton-p>
     
-    <version name="0.1d" url="http://openacs.org/repository/download/apm/cards-portlet-0.1d.apm">
+    <version name="0.2d" url="http://openacs.org/repository/download/apm/cards-portlet-0.2d.apm">
         <owner url="http://openacs.org">OpenACS</owner>
-        <release-date>2005-05-10</release-date>
+        <release-date>2006-06-22</release-date>
         <vendor url="http://openacs.org">OpenACS</vendor>
-
-        <provides url="cards-portlet" version="0.1d"/>
+        <maturity>0</maturity>
+        
+        <provides url="cards-portlet" version="0.2d"/>
         <requires url="new-portal" version="0.1a"/>
-        <requires url="cards" version="0.1d"/>
+        <requires url="cards" version="0.2d"/>
 
     </version>
 </package>

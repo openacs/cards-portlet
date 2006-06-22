@@ -17,6 +17,6 @@
 %>
 
 <ul>
-  <li><a href="@url@cards">#cards-portlet.cards#</a>
+  <li><a href="cards/cards_list">#cards-portlet.cards#</a>
 </ul>
 
